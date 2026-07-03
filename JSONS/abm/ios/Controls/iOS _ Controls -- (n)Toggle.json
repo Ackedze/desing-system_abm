@@ -1,5 +1,15 @@
 {
   "kind": "catalog",
+  "applicability": {
+    "channels": [
+      "universal"
+    ],
+    "platforms": [
+      "ios"
+    ],
+    "source": "path-policy",
+    "updatedAt": "2026-07-04"
+  },
   "source": {
     "library": "iOS _ Controls",
     "file": "iOS _ Controls",

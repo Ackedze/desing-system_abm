@@ -1,5 +1,15 @@
 {
   "kind": "component-index",
+  "applicability": {
+    "channels": [
+      "universal"
+    ],
+    "platforms": [
+      "ios"
+    ],
+    "source": "path-policy",
+    "updatedAt": "2026-07-04"
+  },
   "version": 1,
   "generatedAt": "2026-06-16T22:40:53.133Z",
   "catalogName": "iOS _ Controls -- (n)AppleIDButton",
